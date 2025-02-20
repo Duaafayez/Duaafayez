@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## Hi, I'm Duaa Alkhabaz 👋  <br>🚀 Frontend & Mobile Developer | Passionate about building user-friendly apps  <br><br>### 📌 Featured Projects  <br>💡 **Sweet Shop** – A simple e-commerce store built with HTML, CSS, JavaScript & PHP  <br>🔗 **[GitHub Repo](https://github.com/Duaafayez/Sweet-shop)**  <br><br>
+ ## Hi, I'm Duaa Alkhabaz 👋  <br>🚀 Web & Mobile Developer | Passionate about building user-friendly apps  <br><br>### 📌 Featured Projects  <br>💡 **Sweet Shop** – A simple e-commerce store built with HTML, CSS, JavaScript & PHP  <br>🔗 **[GitHub Repo](https://github.com/Duaafayez/Sweet-shop)**  <br><br>
 
 
 ## 🌐 Socials:
