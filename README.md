@@ -1,5 +1,5 @@
 ## Hi, I'm Duaa Alkhabaz 👋  
-🚀 Web & Mobile Developer | Passionate about building user-friendly apps  
+🚀 Frontend & Mobile Developer | Passionate about building user-friendly apps  
 
 ### 🛠️ Tech Stack  
 
@@ -15,6 +15,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat&logo=oracle&logoColor=white)    
+
+
+#### 🔹 Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-4B0082?style=flat&logo=devops&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+
 
 #### 🔹 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
